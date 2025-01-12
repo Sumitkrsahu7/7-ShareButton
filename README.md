@@ -1,1 +1,1 @@
-# 7-ShareButton
+# 7-ShareButton - In this project we create an interactive "Share Site" button using HTML, CSS, and JavaScript. The design includes a rotating toggle button that reveals multiple social media share icons such as LinkedIn, Twitter, Facebook, Instagram, Skype, YouTube, WhatsApp, and more. 
